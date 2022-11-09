@@ -1,9 +1,9 @@
 # CSS-My-Site(Udemy WEb bootcamp)
-https://cherryis.github.io/CSS-My-Site/
+# https://cherryis.github.io/CSS-My-Site/
 Used only HTML, CSS
 Used favicon for browing. It will show heart icon next to title.
 
-#References =>
+# References =>
 Favicon : https://www.flaticon.com/search?word=heart
 Button : https://css3buttongenerator.com/
 Fonts : https://fonts.google.com/
